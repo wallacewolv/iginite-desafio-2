@@ -28,13 +28,13 @@
 
 Rocketshoes é uma apliação desenvolvida como desafio na trilha React js do bootcamp Ignite da Rocketseat.
 
-Sua Principlar função é trazer a funcionalidade de um hook dentro de uma aplicação com react, 
+Sua Principal função é trazer a funcionalidade de um hook dentro de uma aplicação com reac, selecionando o produtos e sua quantidade ou podendo excluir todos os itens da lista
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Adicionar produto da lista;\
+:heavy_check_mark: Aumentar ou diminuir a quantidade;\
+:heavy_check_mark: Deletar itens da lista;
 
 ## :rocket: Technologies ##
 
