@@ -81,7 +81,7 @@ $ yarn server
 
 ## :memo: License ##
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o [LICENSE](LICENSE.md) file.
+Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o [LICENSE](./LICENSE) file.
 
 
 Feito com :heart: por <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Wallace Wesley</a>
