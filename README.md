@@ -40,10 +40,8 @@ Sua Principal função é trazer a funcionalidade de um hook dentro de uma aplic
 
 As seguintes ferramentas foram utilizadas neste projeto:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requerimentos ##
