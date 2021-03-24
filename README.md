@@ -3,13 +3,13 @@
 <hr>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#memo-license">Licensa</a> &#xa0; | &#xa0;
+  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Autor</a>
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 	🚀 Finalizado 🚀 
 </h4> 
 
-## :dart: About ##
+## :dart: Sobre ##
 
 Rocketshoes é uma apliação desenvolvida como desafio na trilha React js do bootcamp Ignite da Rocketseat.
 
@@ -36,9 +36,9 @@ Sua Principal função é trazer a funcionalidade de um hook dentro de uma aplic
 :heavy_check_mark: Aumentar ou diminuir a quantidade;\
 :heavy_check_mark: Deletar itens na lista;
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+As seguintes ferramentas foram utilizadas neste projeto:
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
@@ -46,35 +46,46 @@ The following tools were used in this project:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requerimentos ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Iniciando ##
 
 ```bash
-# Clone this project
+# Clonando o projeto
 $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/criando_um_hook_de_carrinho_de_compras
 
-# Access
+# Acessando
 $ cd criando_um_hook_de_carrinho_de_compras
 
-# Install dependencies
+# Instalando dependencias
 $ yarn
 
-# Run the project
+# Execute o projeto
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# O servidor iniciara no <http://localhost:3000>
+
+# Acessando o server do projeto (API Fake)
+$ Entre no Prompt de comando e coloque o caminho do arquivo
+$ EXEMPLO =>  cd Desktop/Pastas/Projetos/criando_um_hook_de_carrinho_de_compras
+
+# Execute o server no projeto projeto
+$ yarn server
+
+# O server(API Fake) estara no 
+<http://localhost:3333/stock> e <http://localhost:3333/products>
+
 ```
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Wallace Wesley</a>
+Feito com :heart: por <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Wallace Wesley</a>
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Voltar ao topo</a>
