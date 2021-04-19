@@ -9,7 +9,7 @@
   <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Iniciando</a> &#xa0; | &#xa0;
   <a href="#memo-license">Licensa</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Autor</a>
+  <a href="https://github.com/wallacewolv" target="_blank">Autor</a>
 </p>
 
 <br>
