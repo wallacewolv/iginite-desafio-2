@@ -82,7 +82,7 @@ $ yarn server
 Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o [LICENSE](./LICENSE) file.
 
 
-Feito com :heart: por <a href="https://github.com/{{wallacewolv}}" target="_blank">Wallace Wesley</a>
+Feito com :heart: por <a href="https://github.com/wallacewolv" target="_blank">Wallace Wesley</a>
 
 &#xa0;
 
